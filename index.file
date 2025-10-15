@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>まさ旅記録</title>
+  <style>
+    body {
+      font-family: "Yu Gothic", sans-serif;
+      line-height: 1.8;
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+      color: #222;
+      background-color: #fafafa;
+    }
+    h1, h2 { border-bottom: 1px solid #ccc; padding-bottom: 0.3em; }
+    a { color: #0044cc; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    footer { margin-top: 3rem; font-size: 0.9em; color: #666; text-align: center; }
+  </style>
+</head>
+<body>
+  <h1>まさ旅記録</h1>
+  <p>旅と参拝の記録、そして技術備忘録をまとめています。</p>
+
+  <h2>最新記事</h2>
+  <ul>
+    <li><a href="#">出雲大社に参拝しました</a></li>
+    <li><a href="#">Linuxで自動バックアップを設定</a></li>
+  </ul>
+
+  <footer>© 2025 まさ旅</footer>
+</body>
+</html>
